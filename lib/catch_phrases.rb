@@ -10,4 +10,9 @@ def toadstool
 end
 
 def link
+  hyaa = "It's Dangerous To Go Alone! Take This.\n"
+  puts hyaa
+end
+
+
   
