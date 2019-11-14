@@ -14,5 +14,7 @@ def link
   puts hyaa
 end
 
-
+def any_phrase(phrase)
+  phrase = 
+  
   
